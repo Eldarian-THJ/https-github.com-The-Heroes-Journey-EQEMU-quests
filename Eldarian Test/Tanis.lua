@@ -18,7 +18,7 @@ function event_say(e)
 		elseif(e.message:findi("bloodline?")) then
             e.self:Say ( "Blood memories " .. e.other:GetName() .. ". we will need some form of blood memories.  " ..
                        "We need to acquire this from our current stock only from there can we derive at a pure source.    " ..
-                       "Seek out a pure bloods blood vial, and return it undamaged... ."
+                       "Seek out a pure bloods blood vial, and return it undamaged ka bklah... ."
 			);
 end
 		
